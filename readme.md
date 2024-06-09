@@ -33,11 +33,11 @@ The landing page include sections as per the Figma design:
 ##  Create a Responsive Layout
 It has been Ensured that the design is responsive and looks good on both desktop and mobile devices by Use CSS Grid or Flexbox for the layout.
 
-## Additional Features (Optional)
+## Some Additional Features 
 Implemented hover effects on interactive elements.
 Add smooth scrolling for internal links.
 Use a lightbox effect for the app screenshots gallery.
 
-## Bonus Points(Optional)
+## Bonus Points
 Implemented a dark mode toggle.
 Add animations using CSS or libraries like Framer Motion.
